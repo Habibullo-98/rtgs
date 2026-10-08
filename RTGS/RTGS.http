@@ -1,0 +1,6 @@
+@RTGS_HostAddress = http://localhost:5056
+
+GET {{RTGS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
